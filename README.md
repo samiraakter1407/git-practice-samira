@@ -13,3 +13,4 @@ This project demonstrates Git and GitHub operations including branching, merging
 - Merging
 - Calculator functions
 - GitHub integration
+- Calculator implementation
