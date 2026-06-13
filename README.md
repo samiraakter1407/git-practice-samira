@@ -14,3 +14,7 @@ This project demonstrates Git and GitHub operations including branching, merging
 - Calculator functions
 - GitHub integration
 - Calculator implementation
+
+## Author
+
+Samira Akter
